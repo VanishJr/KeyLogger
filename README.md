@@ -1,3 +1,6 @@
-# Simple KeyLogger
+# KeyLogger
+A simple key logger which reads the pressed keys with the keyboard
+___________________________________________________________________
 
-<sub> was created in scientific studies </sub>
+## What did I learnt
+
