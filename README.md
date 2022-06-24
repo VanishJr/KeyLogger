@@ -1,5 +1,5 @@
 # KeyLogger
-A simple key logger which reads the pressed keys with the keyboard
+A simple key logger which reads the pressed keys with the keyboard written by C++ language
 ___________________________________________________________________
 
 ## What did I learn
